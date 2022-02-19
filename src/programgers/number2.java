@@ -34,7 +34,8 @@ public class number2 {
     }
 
     public static void main(String[] args) {
-        int[] a ={500, -1000, -1500, 500};
-        solution(a);
+//        int[] a ={500, -1000, -1500, 500};
+//        solution(a);
+
     }
 }
